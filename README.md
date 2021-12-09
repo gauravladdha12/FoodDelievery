@@ -12,6 +12,7 @@ source venv-uplevel/bin/activate
 pip install -r requirements.txt
 
 ### Run the project
+cd foody
 ./manage.py runserver
 
 ## Run the api
