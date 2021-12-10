@@ -1,7 +1,7 @@
 # FoodDelievery
 FoodDelievery service that calculates the final delievery time for meals
 
-## set local envinronment variables
+## set local envinronment
 
 ### set up virtual environment
 python3 -m pip install --user virtualenv
