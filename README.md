@@ -5,7 +5,9 @@ FoodDelievery service that calculates the final delievery time for meals
 
 ### set up virtual environment
 python3 -m pip install --user virtualenv
+
 python3 -m venv venv-uplevel
+
 source venv-uplevel/bin/activate
 
 ### install requirements
